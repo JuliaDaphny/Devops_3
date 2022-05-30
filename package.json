@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+      "jest": "^28.1.0"
+    },
+    "name": "devops2-19-05-master",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+      "test": "jest --passWithNoTests"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+  }
